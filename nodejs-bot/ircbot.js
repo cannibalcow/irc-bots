@@ -10,8 +10,7 @@ var registered = false;
 
 var options = {
   user: 'USER evald070 8 * :ronny\r\n',
-  nick: 'NICK n0d3b0t\r\n',
-  channel: '#a h18'
+  nick: 'NICK n0d3b0t\r\n'
 };
 
 client.connect(port, host, function() {
